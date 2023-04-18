@@ -13,7 +13,7 @@ Usuario administrador: Creación, edición y eliminación de nuevas sucursales. 
 
 Si desea correr este proyecto en un etorno de desarollo, simplemente clone este repositorio.
 <br>
-Git clone: https://github.com/MatiasOrlando/line-up.git
+Git clone: https://github.com/KAyerdi/line-up
 
 | /api      | /client   |
 | --------- | --------- |
