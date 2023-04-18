@@ -50,13 +50,4 @@ v1.0.0 - 23 de Marzo, 2023
 <li>Version inicial</li>
 </ul>
 
-## Autores: 🚀
 
-<ul>
-<li>German Cuevas</li>
-<li>Pedro Ragni</li>
-<li>Tomas Camacho</li>
-<li>Matias Orlando</li>
-<li>Mateo Catalano</li>
-<li>Nicholas Inchauspe</li>
-</ul>
